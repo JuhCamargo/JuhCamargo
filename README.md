@@ -12,4 +12,4 @@
 Qualquer dúvida entre em contato
 <a href="bueno.camargo.julia@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&quot; target="_blank"/></a>
 ![](![image](https://github.com/user-attachments/assets/0dd56601-9714-4fae-98c5-4c45581dbd10)
-)
+
